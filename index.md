@@ -12,3 +12,9 @@
 ``` javascript
 var var2 = "simple to introduction";
 ```
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [x] This item is not complete
+- [x] intro to markdown 
